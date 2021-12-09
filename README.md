@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on frontend projects.
-- 🌱 I’m currently learning react and next.js.
+- 🌱 I’m currently learning bootstrap@5 & MERN.
 - 👯 I’m looking to collaborate on insightful projects.
 - 💬 Ask me about web development.
 - 📫 How to reach me- mail: rahzy24@gmail.com; whatsapp: +2348108243267
